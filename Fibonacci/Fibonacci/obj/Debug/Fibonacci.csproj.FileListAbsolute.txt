@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
