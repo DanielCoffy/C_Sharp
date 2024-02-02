@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Controle\Controle\obj\Debug\Controle.pdb
