@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\obj\Debug\Calculadore.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\obj\Debug\Calculadore.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\bin\Debug\Calculadore.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\bin\Debug\Calculadore.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\bin\Debug\Calculadore.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\obj\Debug\Calculadore.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\Calculadore\Calculadore\obj\Debug\Calculadore.pdb
