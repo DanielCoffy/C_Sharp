@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb
