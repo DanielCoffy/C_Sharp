@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
