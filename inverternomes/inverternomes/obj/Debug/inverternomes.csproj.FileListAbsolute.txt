@@ -1,0 +1,7 @@
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\bin\Debug\inverternomes.exe.config
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\bin\Debug\inverternomes.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\bin\Debug\inverternomes.pdb
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\obj\Debug\inverternomes.csproj.AssemblyReference.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\obj\Debug\inverternomes.csproj.CoreCompileInputs.cache
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\obj\Debug\inverternomes.exe
+C:\Users\PROIDEA-NT-01\Documents\C#\inverternomes\inverternomes\obj\Debug\inverternomes.pdb
